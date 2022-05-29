@@ -1,0 +1,14 @@
+{"id":"1","alertTypeId":"1","timeNum":"5","timeUnit":"min","statsField":"columnNum","statsType":"max","compareType":">","threshold":"100"}
+{"id":"2","alertTypeId":"2","timeNum":"10","timeUnit":"min","statsField":"columnNum","statsType":"count","compareType":">","threshold":"20"}
+{"id":"3","alertTypeId":"3","timeNum":"5","timeUnit":"min","statsField":"columnNum","statsType":"min","compareType":">=","threshold":"20"}
+{"id":"4","alertTypeId":"4","timeNum":"5","timeUnit":"min","statsField":"columnNum","statsType":"avg","compareType":">","threshold":"20"}
+{"id":"5","alertTypeId":"2","timeNum":"20","timeUnit":"min","statsField":"columnNum","statsType":"count","compareType":"==","threshold":"10"}
+{"id":"6","alertTypeId":"2","timeNum":"5","timeUnit":"min","statsField":"columnNum","statsType":"count","compareType":"<","threshold":"20"}
+{"id":"7","alertTypeId":"1","timeNum":"5","timeUnit":"min","statsField":"columnNum","statsType":"max","compareType":"<","threshold":"100"}
+{"id":"8","alertTypeId":"1","timeNum":"5","timeUnit":"min","statsField":"columnNum","statsType":"max","compareType":"<","threshold":"20"}
+{"id":"9","alertTypeId":"3","timeNum":"5","timeUnit":"min","statsField":"columnNum","statsType":"min","compareType":"==","threshold":"20"}
+{"id":"10","alertTypeId":"3","timeNum":"5","timeUnit":"min","statsField":"columnNum","statsType":"min","compareType":"<","threshold":"88"}
+{"id":"11","alertTypeId":"3","timeNum":"5","timeUnit":"min","statsField":"columnNum","statsType":"min","compareType":">","threshold":"20"}
+{"id":"12","alertTypeId":"4","timeNum":"5","timeUnit":"min","statsField":"columnNum","statsType":"avg","compareType":"<","threshold":"100"}
+{"id":"13","alertTypeId":"4","timeNum":"5","timeUnit":"min","statsField":"columnNum","statsType":"avg","compareType":"<=","threshold":"10"}
+{"id":"14","alertTypeId":"4","timeNum":"5","timeUnit":"min","statsField":"columnNum","statsType":"avg","compareType":"==","threshold":"20"}
